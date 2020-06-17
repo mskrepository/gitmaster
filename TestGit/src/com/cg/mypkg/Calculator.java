@@ -1,4 +1,8 @@
-package mytestproject;
+package com.cg.mypkg;
+
+//package mytestproject;
+
+//import mytestproject.Calculator;
 
 public class Calculator {
 
