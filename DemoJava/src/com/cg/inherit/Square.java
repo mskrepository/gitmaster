@@ -1,5 +1,5 @@
 package com.cg.inherit;
-//import com.cg.inherit.*;
+//created by Sarfaraz Khan
 
 public class Square extends Shape{
 
